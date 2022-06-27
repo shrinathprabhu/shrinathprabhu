@@ -2539,7 +2539,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path fill-rule="evenodd" d="M5 3.25a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm0 2.122a2.25 2.25 0 10-1.5 0v.878A2.25 2.25 0 005.75 8.5h1.5v2.128a2.251 2.251 0 101.5 0V8.5h1.5a2.25 2.25 0 002.25-2.25v-.878a2.25 2.25 0 10-1.5 0v.878a.75.75 0 01-.75.75h-4.5A.75.75 0 015 6.25v-.878zm3.75 7.378a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm3-8.75a.75.75 0 100-1.5.75.75 0 000 1.5z"/>
                                         </svg>
-                                        303
+                                        304
                                     </div>
                                     <div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -3313,7 +3313,7 @@
                                 <path fill-rule="evenodd" d="M8 1.5a6.5 6.5 0 100 13 6.5 6.5 0 000-13zM0 8a8 8 0 1116 0A8 8 0 010 8zm6.5-.25A.75.75 0 017.25 7h1a.75.75 0 01.75.75v2.75h.25a.75.75 0 010 1.5h-2a.75.75 0 010-1.5h.25v-2h-.25a.75.75 0 01-.75-.75zM8 6a1 1 0 100-2 1 1 0 000 2z"/>
                             </svg>
                             <span class="code">968334f4</span>
-                            <span class="code">src/components/app-configure/CreateApp.vue</span>
+                            <span class="code">src/components/app-configure/store/StorageRegion.vue</span>
                             <span class="code"><span class="snippet additions">++2</span> <span class="snippet deletions">--2</span></span>
                         </div>
                     </section>
@@ -3321,14 +3321,14 @@
                 <div class="row">
                     <section class="snippet">
                         <div class="body markdown">
-                            <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -76,8 +76,8 @@</span><br /><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line">  &lt;VTooltip<br /></span><span class="token prefix unchanged">·</span><span class="token line">    title="Arcana Store uses physical storage nodes that are logically grouped by<br /></span><span class="token prefix unchanged">·</span><span class="token line">geography. This allows you to control the region or location where<br /></span></span><span class="token deleted-sign deleted"><span class="token prefix deleted">-</span><span class="token line">dApp's data assets reside, for compliance and regulatory purpose. Once a<br /></span><span class="token prefix deleted">-</span><span class="token line">region has been selected it cannot be altered."<br /></span></span><span class="token inserted-sign inserted"><span class="token prefix inserted">+</span><span class="token line">dApp's data assets reside, for compliance and regulatory purpose. &lt;strong&gt;Once a<br /></span><span class="token prefix inserted">+</span><span class="token line">region has been selected it cannot be altered.&lt;/strong&gt;"<br /></span></span><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line">  &gt;<br /></span><span class="token prefix unchanged">·</span><span class="token line">    &lt;img<br /></span><span class="token prefix unchanged">·</span><span class="token line">      src="@/assets/iconography/info-circle-outline.svg"</span></span></code>
+                            <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -18,8 +18,8 @@</span><br /><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line">&lt;template #description<br /></span><span class="token prefix unchanged">·</span><span class="token line">  &gt;Arcana Store uses physical storage nodes that are logically grouped by<br /></span><span class="token prefix unchanged">·</span><span class="token line">  geography. This allows you to control the region or location where<br /></span></span><span class="token deleted-sign deleted"><span class="token prefix deleted">-</span><span class="token line">  dApp's data assets reside, for compliance and regulatory purpose. Once a<br /></span><span class="token prefix deleted">-</span><span class="token line">  region has been selected it cannot be altered.<br /></span></span><span class="token inserted-sign inserted"><span class="token prefix inserted">+</span><span class="token line">  dApp's data assets reside, for compliance and regulatory purpose.<br /></span><span class="token prefix inserted">+</span><span class="token line">  &lt;strong&gt;Once a region has been selected it cannot be altered.&lt;/strong&gt;<br /></span></span><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line">  &lt;br /&gt;<br /></span><span class="token prefix unchanged">·</span><span class="token line">  &lt;a<br /></span><span class="token prefix unchanged">·</span><span class="token line">    href="https://docs.dev.arcana.network/docs/storage_nodes"</span></span></code>
                         </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 27 Jun 2022, 12:44:34 (timezone Asia/Calcutta) with lowlighter/metrics@3.24.0</span>
+                <span>Last updated 27 Jun 2022, 13:52:03 (timezone Asia/Calcutta) with lowlighter/metrics@3.24.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
