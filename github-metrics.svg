@@ -2495,7 +2495,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>jobsort/jobsort</span>
-                                        <span>starred 3 days ago</span>
+                                        <span>starred 4 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">JobSort is a super fast indie job search engine for developers, by developers. We built a domain-specific language, called JobSort Query Language (JSQL), that enables deep searching and filtering. JobSort crawls the Internet daily to refresh its database of jobs.</div>
@@ -3356,7 +3356,7 @@ Commit: https://github.com/arcana-network/website/pull/126/commits/cd3736e0ed2d4
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 31 Jul 2022, 20:45:35 (timezone Asia/Calcutta) with lowlighter/metrics@3.26.0</span>
+                <span>Last updated 31 Jul 2022, 21:50:20 (timezone Asia/Calcutta) with lowlighter/metrics@3.26.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
