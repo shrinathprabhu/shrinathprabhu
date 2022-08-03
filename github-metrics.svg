@@ -2475,7 +2475,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>jobsort/jobsort</span>
-                                        <span>starred 6 days ago</span>
+                                        <span>starred 7 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">JobSort is a super fast indie job search engine for developers, by developers. We built a domain-specific language, called JobSort Query Language (JSQL), that enables deep searching and filtering. JobSort crawls the Internet daily to refresh its database of jobs.</div>
@@ -3356,7 +3356,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 3 Aug 2022, 20:49:04 (timezone Asia/Calcutta) with lowlighter/metrics@3.26.0</span>
+                <span>Last updated 3 Aug 2022, 21:52:38 (timezone Asia/Calcutta) with lowlighter/metrics@3.26.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
