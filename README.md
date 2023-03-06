@@ -15,9 +15,7 @@ A web developer who can write frontend and backend code using Javascript.
 </div>
 <br />
 
-[![Shrinath's Github Stats](https://github-readme-stats.vercel.app/api?username=shrinathprabhu&theme=vue-dark&include_all_commits=true&count_private=true&show_icons=true&custom_title=Stats)](https://github.com/anuraghazra/github-readme-stats>)
-
-[![Shrinath's GitHub Streak](https://streak-stats.demolab.com?user=shrinathprabhu&theme=vue-dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+[![Shrinath's Github Stats](https://github-readme-stats.vercel.app/api?username=shrinathprabhu&theme=vue-dark&include_all_commits=true&count_private=true&show_icons=true&custom_title=Stats)](https://github.com/anuraghazra/github-readme-stats>) [![Shrinath's GitHub Streak](https://streak-stats.demolab.com?user=shrinathprabhu&theme=vue-dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 [![Shrinath's Github Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shrinathprabhu&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
