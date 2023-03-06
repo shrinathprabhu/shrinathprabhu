@@ -18,11 +18,14 @@ A web developer who can write frontend and backend code using Javascript.
 <div style="margin-top: 1.5rem"></div>
 
 [![Shrinath's Github Stats](https://github-readme-stats.vercel.app/api?username=shrinathprabhu&theme=vue-dark&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&custom_title=Stats)](<https://github.com/anuraghazra/github-readme-stats>)
+
 [![Shrinath's GitHub Streak](https://streak-stats.demolab.com?user=shrinathprabhu&theme=vue-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
 ![Shrinath's Github Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shrinathprabhu&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact&hide_border=true)
+
 [![Shrinath's Github Trophies](https://github-profile-trophy.vercel.app/?username=shrinathprabhu&column=4&theme=onestar&hide_border=true)](<https://github.com/anuraghazra/github-readme-stats>)
 
-[![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=shrinathprabhu&repo=portfolio&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats) [![Credenstore](https://github-readme-stats.vercel.app/api/pin/?username=shrinathprabhu&repo=credenstore&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats) [![Arcana Network's Developer Dashboard](https://github-readme-stats.vercel.app/api/pin/?username=arcana-network&repo=developer-dashboard&theme=vue-dark&show_owner=true)](https://github.com/anuraghazra/github-readme-stats) [![Arcana Network's Website (Deprecated)](https://github-readme-stats.vercel.app/api/pin/?username=arcana-network&repo=website&theme=vue-dark&show_owner=true)](https://github.com/anuraghazra/github-readme-stats) [![Arcana Network's Demo App (Deprecated)](https://github-readme-stats.vercel.app/api/pin/?username=arcana-network&repo=demo-app&theme=vue-dark&show_owner=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=shrinathprabhu&repo=portfolio&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats) [![Credenstore](https://github-readme-stats.vercel.app/api/pin/?username=shrinathprabhu&repo=credenstore&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats) [![Arcana Network's Developer Dashboard](https://github-readme-stats.vercel.app/api/pin/?username=arcana-network&repo=developer-dashboard&theme=vue-dark&show_owner=true)](https://github.com/anuraghazra/github-readme-stats) [![Arcana Network's Demo App (Deprecated)](https://github-readme-stats.vercel.app/api/pin/?username=arcana-network&repo=demo-app&theme=vue-dark&show_owner=true)](https://github.com/anuraghazra/github-readme-stats) [![Arcana Network's Website (Deprecated)](https://github-readme-stats.vercel.app/api/pin/?username=arcana-network&repo=website&theme=vue-dark&show_owner=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
