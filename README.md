@@ -7,12 +7,12 @@ A web developer who can write frontend and backend code using Javascript.
 
 <div>
 <a href="https://shrinath.me" target="_blank">
-<img src="https://cdn-icons-png.flaticon.com/512/1006/1006771.png" style="max-width: 24px" title="Visit Shrinath's website" alt="Visit Shrinath's website" />
+<img src="https://cdn-icons-png.flaticon.com/512/1006/1006771.png" width="24" height="24" title="Visit Shrinath's website" alt="Visit Shrinath's website" />
 <a href="https://linkedin.com/in/shrinath-prabhu" target="_blank">
-<img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" style="max-width: 24px" title="Find Shrinath on Linkedin" alt="Find Shrinath on Linkedin" />
+<img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="24" height="24" title="Find Shrinath on Linkedin" alt="Find Shrinath on Linkedin" />
 </a> 
 <a href="https://twitter.com/shrinath_prabhu" target="_blank">
-<img src="https://cdn-icons-png.flaticon.com/512/3256/3256013.png" style="max-width: 24px" title="Find Shrinath on Twitter" alt="Find Shrinath on Twitter" />
+<img src="https://cdn-icons-png.flaticon.com/512/3256/3256013.png" width="24" height="24" title="Find Shrinath on Twitter" alt="Find Shrinath on Twitter" />
 </div>
 
 <div style="margin-top: 1.5rem"></div>
@@ -29,14 +29,14 @@ A web developer who can write frontend and backend code using Javascript.
 
 <div style="display: flex; gap: 0.5rem;">
 <a href="https://paypal.me/shrinathprabhu" target="_blank">
-<img src="https://cdn-icons-png.flaticon.com/512/174/174861.png" style="max-width: 24px" alt="Donate to Shrinath via Paypal" />
+<img src="https://cdn-icons-png.flaticon.com/512/174/174861.png" width="24" height="24" alt="Donate to Shrinath via Paypal" />
 <a href="https://nowpayments.io/donation/shrinathprabhu" target="_blank">
-<img src="https://cdn-icons-png.flaticon.com/512/2272/2272825.png" style="max-width: 24px" alt="Donate to Shrinath via Cryptocurrency" />
+<img src="https://cdn-icons-png.flaticon.com/512/2272/2272825.png" width="24" height="24" alt="Donate to Shrinath via Cryptocurrency" />
 </a>
 <a href="https://ko-fi.com/shrinath" target="_blank">
-<img src="https://www.vectorlogo.zone/logos/ko-fi/ko-fi-icon.svg" style="max-width: 24px" alt="Donate to Shrinath via Ko-fi" />
+<img src="https://www.vectorlogo.zone/logos/ko-fi/ko-fi-icon.svg" width="24" height="24" alt="Donate to Shrinath via Ko-fi" />
 </a>
 <a href="https://www.buymeacoffee.com/shrinathprabhu">
-<img src="https://www.buymeacoffee.com/assets/img/guidelines/logo-mark-1.svg" alt="Donate to Shrinath via Buy Me a Coffee" />
+<img src="https://www.buymeacoffee.com/assets/img/guidelines/logo-mark-1.svg" width="24" height="24" alt="Donate to Shrinath via Buy Me a Coffee" />
 </a>
 </div>
