@@ -3,6 +3,7 @@
 I'm **Shrinath Prabhu**
 A web developer who can write frontend and backend code using Javascript.
 
+<div>
 <a href="https://shrinath.me" target="_blank">
 <img src="https://cdn-icons-png.flaticon.com/512/1006/1006771.png" width="24" height="24" title="Visit Shrinath's website" alt="Visit Shrinath's website" />
 <a href="https://linkedin.com/in/shrinath-prabhu" target="_blank">
@@ -10,7 +11,7 @@ A web developer who can write frontend and backend code using Javascript.
 </a> 
 <a href="https://twitter.com/shrinath_prabhu" target="_blank">
 <img src="https://cdn-icons-png.flaticon.com/512/3256/3256013.png" width="24" height="24" title="Find Shrinath on Twitter" alt="Find Shrinath on Twitter" />
-
+</div>
 
 [![Shrinath's Github Stats](https://github-readme-stats.vercel.app/api?username=shrinathprabhu&theme=vue-dark&include_all_commits=true&count_private=true&show_icons=true&custom_title=Stats)](https://github.com/anuraghazra/github-readme-stats>)
 
