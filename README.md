@@ -23,7 +23,7 @@ A web developer who can write frontend and backend code using Javascript.
 
 [![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=shrinathprabhu&repo=portfolio&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats) [![Credenstore](https://github-readme-stats.vercel.app/api/pin/?username=shrinathprabhu&repo=credenstore&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats) [![Arcana Network's Developer Dashboard](https://github-readme-stats.vercel.app/api/pin/?username=arcana-network&repo=developer-dashboard&theme=vue-dark&show_owner=true)](https://github.com/anuraghazra/github-readme-stats) [![Arcana Network's Demo App (Deprecated)](https://github-readme-stats.vercel.app/api/pin/?username=arcana-network&repo=demo-app&theme=vue-dark&show_owner=true)](https://github.com/anuraghazra/github-readme-stats) [![Arcana Network's Website (Deprecated)](https://github-readme-stats.vercel.app/api/pin/?username=arcana-network&repo=website&theme=vue-dark&show_owner=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Shrinath's Github Trophies](https://github-profile-trophy.vercel.app/?username=shrinathprabhu&column=4&theme=onestar)](https://github.com/anuraghazra/github-readme-stats)
+[![Shrinath's Github Trophies](https://github-profile-trophy.vercel.app/?username=shrinathprabhu&theme=onestar)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 <a href="https://paypal.me/shrinathprabhu" target="_blank">
