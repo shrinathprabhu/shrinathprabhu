@@ -1,5 +1,4 @@
-# Hi
-
+## Hi
 I'm **Shrinath Prabhu**
 A web developer who can write frontend and backend code using Javascript.
 
