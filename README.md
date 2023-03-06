@@ -11,6 +11,7 @@ A web developer who can write frontend and backend code using Javascript.
 <a href="https://twitter.com/shrinath_prabhu" target="_blank">
 <img src="https://cdn-icons-png.flaticon.com/512/3256/3256013.png" width="24" height="24" title="Find Shrinath on Twitter" alt="Find Shrinath on Twitter" />
 
+
 [![Shrinath's Github Stats](https://github-readme-stats.vercel.app/api?username=shrinathprabhu&theme=vue-dark&include_all_commits=true&count_private=true&show_icons=true&custom_title=Stats)](https://github.com/anuraghazra/github-readme-stats>)
 
 [![Shrinath's GitHub Streak](https://streak-stats.demolab.com?user=shrinathprabhu&theme=vue-dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
