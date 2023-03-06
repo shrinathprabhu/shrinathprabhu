@@ -4,7 +4,7 @@ A web developer who can write frontend and backend code using Javascript.
 
 <div>
 <a href="https://shrinath.me" target="_blank">
-<img src="https://cdn-icons-png.flaticon.com/512/1006/1006771.png" width="24" height="24" title="Visit Shrinath's website" alt="Visit Shrinath's website" />
+<img src="https://cdn-icons-png.flaticon.com/512/3059/3059997.png" width="24" height="24" title="Visit Shrinath's website" alt="Visit Shrinath's website" />
 </a>&nbsp;&nbsp;
 <a href="https://linkedin.com/in/shrinath-prabhu" target="_blank">
 <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="24" height="24" title="Find Shrinath on Linkedin" alt="Find Shrinath on Linkedin" />
