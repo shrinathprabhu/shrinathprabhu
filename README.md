@@ -65,14 +65,12 @@ A Web Developer, currently working at <a href="https://arcana.network" target="_
 <img src="https://raw.githubusercontent.com/shrinathprabhu/shrinathprabhu/output/snake.svg" alt="Snake animation" />
 </div>
 
-<a href="https://paypal.me/shrinathprabhu" target="_blank">
+<!-- <a href="https://paypal.me/shrinathprabhu" target="_blank">
 <img src="https://cdn-icons-png.flaticon.com/512/174/174861.png" width="16" height="16" alt="Paypal" />
-</a>
-<img width="8" />
+</a>&nbsp;&nbsp;
 <a href="https://ko-fi.com/shrinath" target="_blank">
 <img src="https://www.vectorlogo.zone/logos/ko-fi/ko-fi-icon.svg" width="16" height="16" alt="Ko-fi" />
 </a>
-<img width="8" />
 <a href="https://www.buymeacoffee.com/shrinathprabhu" target="_blank">
 <img src="https://www.buymeacoffee.com/assets/img/guidelines/logo-mark-1.svg" width="16" height="16" alt="Buy Me a Coffee" />
-</a>
+</a> -->
