@@ -1,40 +1,87 @@
-## Hi
-I'm **Shrinath Prabhu** <br/>
-A web developer who can write frontend and backend code using Javascript.
+<h1>Hello 👋, I'm Shrinath Prabhu</h1>
 
-<div>
-<a href="https://shrinath.me" target="_blank">
-<img src="https://cdn-icons-png.flaticon.com/512/3059/3059997.png" width="24" height="24" title="Visit Shrinath's website" alt="Visit Shrinath's website" />
-</a>&nbsp;&nbsp;
-<a href="https://linkedin.com/in/shrinath-prabhu" target="_blank">
-<img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="24" height="24" title="Find Shrinath on Linkedin" alt="Find Shrinath on Linkedin" />
-</a>&nbsp;&nbsp;
-<a href="https://twitter.com/shrinath_prabhu" target="_blank">
-<img src="https://cdn-icons-png.flaticon.com/512/3256/3256013.png" width="24" height="24" title="Find Shrinath on Twitter" alt="Find Shrinath on Twitter" />
-</a>
+A Web Developer, currently working at <a href="https://arcana.network" target="_blank"><img src="https://avatars.githubusercontent.com/u/82495837?s=200&v=4" width="12" /> Arcana</a> as a Lead Frontend Developer. Also ocassionally building <a href="https://useoutline.xyz" target="_blank"><img src="https://avatars.githubusercontent.com/u/132091068?s=200&v=4" width="16" /> Outline Analytics</a>, a privacy-focused analytics platform for the modern web.
+
+<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=shrinathprabhu&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=vue-dark&locale=en&hide_border=false" height="150" alt="stats graph"  />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shrinathprabhu&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=vue-dark&hide_border=false" height="150" alt="languages graph"  />
+    <img src="https://streak-stats.demolab.com/?user=shrinathprabhu&theme=vue-dark&date_format=M%20j%5B%2C%20Y%5D" height="150" alt="streak graph"  />
 </div>
-<br />
 
-[![Shrinath's Github Stats](https://github-readme-stats.vercel.app/api?username=shrinathprabhu&theme=vue-dark&include_all_commits=true&count_private=true&show_icons=true&custom_title=Stats)](https://github.com/anuraghazra/github-readme-stats)
+###
 
-[![Shrinath's GitHub Streak](https://streak-stats.demolab.com?user=shrinathprabhu&theme=vue-dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+<img align="right" height="150" src="https://media1.tenor.com/m/Ch4VFEjuI7IAAAAC/anime-boy.gif"  />
 
-[![Shrinath's Github Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shrinathprabhu&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+###
 
-[![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=shrinathprabhu&repo=portfolio&theme=vue-dark)](https://github.com/shrinathprabhu/portfolio) [![Credenstore](https://github-readme-stats.vercel.app/api/pin/?username=shrinathprabhu&repo=credenstore&theme=vue-dark)](https://github.com/shrinathprabhu/credenstore) [![Arcana Network's Developer Dashboard](https://github-readme-stats.vercel.app/api/pin/?username=arcana-network&repo=developer-dashboard&theme=vue-dark&show_owner=true)](https://github.com/arcana-network/developer-dashboard) [![Arcana Network's Demo App (Deprecated)](https://github-readme-stats.vercel.app/api/pin/?username=arcana-network&repo=demo-app&theme=vue-dark&show_owner=true)](https://github.com/arcana-network/demo-app) [![Arcana Network's Website (Deprecated)](https://github-readme-stats.vercel.app/api/pin/?username=arcana-network&repo=website&theme=vue-dark&show_owner=true)](https://github.com/arcana-network/website)
+<h2>🤝 &nbsp;Socials</h2>
+<p>
+</a><a target="_blank" href="https://twitter.com/shrinath_prabhu" style="display: inline-block;"><img src="https://img.shields.io/static/v1?message=x.com&logo=x&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="32" alt="Follow on X.com"  /></a>
+<img width="8" />
+<a target="_blank" href="https://www.linkedin.com/in/shrinath-prabhu" style="display: inline-block;"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="32" alt="Connect on Linkedin"  /></a>
+</p>
 
-[![Shrinath's Github Trophies](https://github-profile-trophy.vercel.app/?username=shrinathprabhu&column=7&theme=onestar)](https://github.com/anuraghazra/github-readme-stats)
+<h2>🧑‍💻 &nbsp;Tech Stack</h2>
+<div align="left">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height="40" alt="javascript" />
+    <img width="8" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript"  />
+    <img width="8" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original-wordmark.svg" height="40" alt="vue.js"  />
+    <img width="8" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nuxtjs/nuxtjs-original-wordmark.svg" height="40" alt="nuxt.js" />
+    <img width="8" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" height="40" alt="html5"  />
+    <img width="8" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" height="40" alt="css3"  />
+    <img width="8" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" height="40" alt="node.js" />
+    <img width="8" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg" height="40" alt="mongodb"  />
+    <img width="8" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original-wordmark.svg"  height="40" alt="tailwind.css" />
+    <img width="8" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original-wordmark.svg" height="40" alt="express" />
+    <img width="8" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bun/bun-original.svg" height="40" alt="bun" />
+    <img width="8" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original-wordmark.svg" height="40" alt="nest.js" />
+    <img width="8" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastify/fastify-plain-wordmark.svg" height="40" alt="fastify" />
+    <img width="8" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" height="40" alt="figma" />
+    <img width="8" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original-wordmark.svg" height="40" alt="firebase" />
+    <img width="8" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" height="40" alt="mysql" />
+
+</div>
+
+<!-- <h2>✒️ Blogs</h2>
+<ul>
+<li><a target="_blank" href="https://medium.com/arcana-network-blog/vue-3-composition-api-basics-and-patterns-44813f2c785d">Vue 3 Composition API: Basics and Patterns</a></li>
+</ul> -->
+
+<!-- [![Shrinath's Github Trophies](https://github-profile-trophy.vercel.app/?username=shrinathprabhu&column=7&theme=dracula)](https://github.com/anuraghazra/github-readme-stats) -->
 
 ---
+
+<br clear="both">
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/shrinathprabhu/shrinathprabhu/output/snake.svg" alt="Snake animation" />
+</div>
+
+###
+
+---
+
 <a href="https://paypal.me/shrinathprabhu" target="_blank">
-<img src="https://cdn-icons-png.flaticon.com/512/174/174861.png" width="24" height="24" alt="Donate to Shrinath via Paypal" />
-</a>&nbsp;&nbsp;
-<a href="https://nowpayments.io/donation/shrinathprabhu" target="_blank">
-<img src="https://cdn-icons-png.flaticon.com/512/2272/2272825.png" width="24" height="24" alt="Donate to Shrinath via Cryptocurrency" />
+<img src="https://cdn-icons-png.flaticon.com/512/174/174861.png" width="16" height="16" alt="Donate to Shrinath via Paypal" />
 </a>&nbsp;&nbsp;
 <a href="https://ko-fi.com/shrinath" target="_blank">
-<img src="https://www.vectorlogo.zone/logos/ko-fi/ko-fi-icon.svg" width="24" height="24" alt="Donate to Shrinath via Ko-fi" />
+<img src="https://www.vectorlogo.zone/logos/ko-fi/ko-fi-icon.svg" width="16" height="16" alt="Donate to Shrinath via Ko-fi" />
 </a>&nbsp;&nbsp;
 <a href="https://www.buymeacoffee.com/shrinathprabhu">
-<img src="https://www.buymeacoffee.com/assets/img/guidelines/logo-mark-1.svg" width="24" height="24" alt="Donate to Shrinath via Buy Me a Coffee" />
+<img src="https://www.buymeacoffee.com/assets/img/guidelines/logo-mark-1.svg" width="16" height="16" alt="Donate to Shrinath via Buy Me a Coffee" />
 </a>&nbsp;&nbsp;
