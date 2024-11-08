@@ -18,37 +18,37 @@ A Web Developer, currently working at <a href="https://arcana.network" target="_
 
 <h2>🧑‍💻 &nbsp;Tech Stack</h2>
 <div align="left">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height="40" alt="javascript" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height="48" alt="javascript" />
     <img width="8" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript"  />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="48" alt="typescript"  />
     <img width="8" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original-wordmark.svg" height="40" alt="vue.js"  />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original-wordmark.svg" height="48" alt="vue.js"  />
     <img width="8" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nuxtjs/nuxtjs-original-wordmark.svg" height="40" alt="nuxt.js" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nuxtjs/nuxtjs-original-wordmark.svg" height="48" alt="nuxt.js" />
     <img width="8" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" height="40" alt="html5"  />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" height="48" alt="html5"  />
     <img width="8" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" height="40" alt="css3"  />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" height="48" alt="css3"  />
     <img width="8" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" height="40" alt="node.js" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" height="48" alt="node.js" />
     <img width="8" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg" height="40" alt="mongodb"  />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg" height="48" alt="mongodb"  />
     <img width="8" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original-wordmark.svg"  height="40" alt="tailwind.css" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original-wordmark.svg"  height="48" alt="tailwind.css" />
     <img width="8" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original-wordmark.svg" height="40" alt="express" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original-wordmark.svg" height="48" alt="express" />
     <img width="8" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bun/bun-original.svg" height="40" alt="bun" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bun/bun-original.svg" height="48" alt="bun" />
     <img width="8" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original-wordmark.svg" height="40" alt="nest.js" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original-wordmark.svg" height="48" alt="nest.js" />
     <img width="8" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastify/fastify-plain-wordmark.svg" height="40" alt="fastify" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastify/fastify-plain-wordmark.svg" height="48" alt="fastify" />
     <img width="8" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" height="40" alt="figma" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" height="48" alt="figma" />
     <img width="8" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original-wordmark.svg" height="40" alt="firebase" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original-wordmark.svg" height="48" alt="firebase" />
     <img width="8" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" height="40" alt="mysql" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" height="48" alt="mysql" />
 
 </div>
 
@@ -66,11 +66,13 @@ A Web Developer, currently working at <a href="https://arcana.network" target="_
 </div>
 
 <a href="https://paypal.me/shrinathprabhu" target="_blank" style="display: inline-block;">
-<img src="https://cdn-icons-png.flaticon.com/512/174/174861.png" width="16" height="16" alt="Donate to Shrinath via Paypal" />
+<img src="https://cdn-icons-png.flaticon.com/512/174/174861.png" width="16" height="16" alt="Paypal" />
 </a>
+<img width="8" />
 <a href="https://ko-fi.com/shrinath" target="_blank" style="display: inline-block;">
-<img src="https://www.vectorlogo.zone/logos/ko-fi/ko-fi-icon.svg" width="16" height="16" alt="Donate to Shrinath via Ko-fi" />
+<img src="https://www.vectorlogo.zone/logos/ko-fi/ko-fi-icon.svg" width="16" height="16" alt="Ko-fi" />
 </a>
+<img width="8" />
 <a href="https://www.buymeacoffee.com/shrinathprabhu" target="_blank" style="display: inline-block;">
-<img src="https://www.buymeacoffee.com/assets/img/guidelines/logo-mark-1.svg" width="16" height="16" alt="Donate to Shrinath via Buy Me a Coffee" />
+<img src="https://www.buymeacoffee.com/assets/img/guidelines/logo-mark-1.svg" width="16" height="16" alt="Buy Me a Coffee" />
 </a>
