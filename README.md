@@ -5,14 +5,9 @@ A Web Developer, currently working at <a href="https://arcana.network" target="_
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=shrinathprabhu&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=vue-dark&locale=en&hide_border=false" height="150" alt="stats graph"  />
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shrinathprabhu&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=vue-dark&hide_border=false" height="150" alt="languages graph"  />
-    <img src="https://streak-stats.demolab.com/?user=shrinathprabhu&theme=vue-dark&date_format=M%20j%5B%2C%20Y%5D" height="150" alt="streak graph"  />
+<img align="right" height="120" src="https://media1.tenor.com/m/Ch4VFEjuI7IAAAAC/anime-boy.gif"  />
+    <!-- <img src="https://streak-stats.demolab.com/?user=shrinathprabhu&theme=vue-dark&date_format=M%20j%5B%2C%20Y%5D" height="150" alt="streak graph"  /> -->
 </div>
-
-###
-
-<img align="right" height="150" src="https://media1.tenor.com/m/Ch4VFEjuI7IAAAAC/anime-boy.gif"  />
-
-###
 
 <h2>🤝 &nbsp;Socials</h2>
 <p>
@@ -64,24 +59,18 @@ A Web Developer, currently working at <a href="https://arcana.network" target="_
 
 <!-- [![Shrinath's Github Trophies](https://github-profile-trophy.vercel.app/?username=shrinathprabhu&column=7&theme=dracula)](https://github.com/anuraghazra/github-readme-stats) -->
 
----
-
 <br clear="both">
 
 <div align="center">
 <img src="https://raw.githubusercontent.com/shrinathprabhu/shrinathprabhu/output/snake.svg" alt="Snake animation" />
 </div>
 
-###
-
----
-
-<a href="https://paypal.me/shrinathprabhu" target="_blank">
+<a href="https://paypal.me/shrinathprabhu" target="_blank" style="display: inline-block;">
 <img src="https://cdn-icons-png.flaticon.com/512/174/174861.png" width="16" height="16" alt="Donate to Shrinath via Paypal" />
-</a>&nbsp;&nbsp;
-<a href="https://ko-fi.com/shrinath" target="_blank">
+</a>
+<a href="https://ko-fi.com/shrinath" target="_blank" style="display: inline-block;">
 <img src="https://www.vectorlogo.zone/logos/ko-fi/ko-fi-icon.svg" width="16" height="16" alt="Donate to Shrinath via Ko-fi" />
-</a>&nbsp;&nbsp;
-<a href="https://www.buymeacoffee.com/shrinathprabhu">
+</a>
+<a href="https://www.buymeacoffee.com/shrinathprabhu" target="_blank" style="display: inline-block;">
 <img src="https://www.buymeacoffee.com/assets/img/guidelines/logo-mark-1.svg" width="16" height="16" alt="Donate to Shrinath via Buy Me a Coffee" />
-</a>&nbsp;&nbsp;
+</a>
