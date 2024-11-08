@@ -19,35 +19,35 @@ A Web Developer, currently working at <a href="https://arcana.network" target="_
 <h2>🧑‍💻 &nbsp;Tech Stack</h2>
 <div align="left">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height="48" alt="javascript" />
-    <img width="8" />
+    <img width="16" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="48" alt="typescript"  />
-    <img width="8" />
+    <img width="16" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original-wordmark.svg" height="48" alt="vue.js"  />
-    <img width="8" />
+    <img width="16" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nuxtjs/nuxtjs-original-wordmark.svg" height="48" alt="nuxt.js" />
-    <img width="8" />
+    <img width="16" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" height="48" alt="html5"  />
-    <img width="8" />
+    <img width="16" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" height="48" alt="css3"  />
-    <img width="8" />
+    <img width="16" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" height="48" alt="node.js" />
-    <img width="8" />
+    <img width="16" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg" height="48" alt="mongodb"  />
-    <img width="8" />
+    <br /><br />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original-wordmark.svg"  height="48" alt="tailwind.css" />
-    <img width="8" />
+    <img width="16" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original-wordmark.svg" height="48" alt="express" />
-    <img width="8" />
+    <img width="16" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bun/bun-original.svg" height="48" alt="bun" />
-    <img width="8" />
+    <img width="16" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original-wordmark.svg" height="48" alt="nest.js" />
-    <img width="8" />
+    <img width="16" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastify/fastify-plain-wordmark.svg" height="48" alt="fastify" />
-    <img width="8" />
+   <img width="16" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" height="48" alt="figma" />
-    <img width="8" />
+    <img width="16" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original-wordmark.svg" height="48" alt="firebase" />
-    <img width="8" />
+    <img width="16" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" height="48" alt="mysql" />
 
 </div>
