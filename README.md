@@ -62,7 +62,11 @@ A Web Developer, currently working at <a href="https://arcana.network" target="_
 <br clear="both">
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/shrinathprabhu/shrinathprabhu/output/snake.svg" alt="Snake animation" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shrinathprabhu/shrinathprabhu/output/snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shrinathprabhu/shrinathprabhu/output/snake-light.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/shrinathprabhu/shrinathprabhu/output/snake.svg" />
+</picture>
 </div>
 
 <!-- <a href="https://paypal.me/shrinathprabhu" target="_blank">
