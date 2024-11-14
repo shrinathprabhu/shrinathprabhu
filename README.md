@@ -3,9 +3,18 @@
 A Web Developer, currently working at <a href="https://arcana.network" target="_blank"><img src="https://avatars.githubusercontent.com/u/82495837?s=200&v=4" width="12" /> Arcana</a> as a Lead Frontend Developer. Also ocassionally building <a href="https://useoutline.xyz" target="_blank"><img src="https://avatars.githubusercontent.com/u/132091068?s=200&v=4" width="16" /> Outline Analytics</a>, a privacy-focused analytics platform for the modern web.
 
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=shrinathprabhu&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=vue-dark&locale=en&hide_border=false" height="150" alt="stats graph"  />
+    <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=shrinathprabhu&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=vue-dark&locale=en&hide_border=false" />
+        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=shrinathprabhu&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=vue&locale=en&hide_border=false" />
+        <img alt="readme-stats" src="https://github-readme-stats.vercel.app/api?username=shrinathprabhu&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=vue-dark&locale=en&hide_border=false" height="150" alt="stats graph" />
+    </picture>
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shrinathprabhu&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=vue-dark&hide_border=false" height="150" alt="languages graph"  />
-<img align="right" height="120" src="https://media1.tenor.com/m/Ch4VFEjuI7IAAAAC/anime-boy.gif"  />
+    <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=shrinathprabhu&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=vue-dark&hide_border=false" />
+        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=shrinathprabhu&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=vue&hide_border=false" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shrinathprabhu&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=vue-dark&hide_border=false" height="150" alt="languages graph"  />
+    </picture>
+    <img align="right" height="120" src="https://media1.tenor.com/m/Ch4VFEjuI7IAAAAC/anime-boy.gif"  />
     <!-- <img src="https://streak-stats.demolab.com/?user=shrinathprabhu&theme=vue-dark&date_format=M%20j%5B%2C%20Y%5D" height="150" alt="streak graph"  /> -->
 </div>
 
