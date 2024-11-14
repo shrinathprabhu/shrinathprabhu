@@ -8,7 +8,6 @@ A Web Developer, currently working at <a href="https://arcana.network" target="_
         <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=shrinathprabhu&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=vue&locale=en&hide_border=false" />
         <img alt="readme-stats" src="https://github-readme-stats.vercel.app/api?username=shrinathprabhu&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=vue-dark&locale=en&hide_border=false" height="150" alt="stats graph" />
     </picture>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shrinathprabhu&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=vue-dark&hide_border=false" height="150" alt="languages graph"  />
     <picture>
         <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=shrinathprabhu&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=vue-dark&hide_border=false" />
         <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=shrinathprabhu&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=vue&hide_border=false" />
