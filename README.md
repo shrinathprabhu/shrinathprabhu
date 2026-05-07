@@ -1,6 +1,6 @@
 # Shrinath Prabhu
 
-**Senior Staff Frontend Engineer** with 7+ years building production web applications, Web3 wallets, and privacy-first tooling.
+**Senior Staff Frontend Engineer** with 8+ years building production web applications, Web3 wallets, and privacy-first tooling.
 
 I have shipped **4 Chrome Extensions** to the Chrome Web Store with a **100% approval rate**, including a non-custodial multi-chain sidebar wallet rated 4.7 stars. Most frontend engineers never ship even one.
 
@@ -8,7 +8,7 @@ For detailed case studies on each project, visit [shrinath.me/work](https://shri
 
 ## What I've built
 
-**Arcana Wallet** - Non-custodial sidebar wallet supporting 13 blockchains, cross-chain transactions, dApp injection into Aave/Uniswap/Lido, transaction signing, and unified balance management. 750+ users, 4.7 stars during a crypto bear market. Built with Vue 3 and viem. [View on Chrome Web Store →](https://chromewebstore.google.com/detail/arcana-wallet/nieddmedbnibfkfokcionggafcmcgkpi)
+**Arcana Wallet** - Non-custodial sidebar wallet supporting 10+ blockchains, cross-chain transactions, dApp injection into Aave/Uniswap/Lido, transaction signing, and unified balance management. 750+ users, 4.7 stars during a crypto bear market. Built with Vue 3 and viem. [View on Chrome Web Store →](https://chromewebstore.google.com/detail/arcana-wallet/nieddmedbnibfkfokcionggafcmcgkpi)
 
 **SendIt** - Cross-chain token transfer app replacing wallet addresses with email/X handles/ENS. Scaled to 65K+ accounts and 20K+ peak DAU. Frontend traffic exceeded Netlify Pro limits despite aggressive caching, migrated to self-managed AWS infrastructure.
 
